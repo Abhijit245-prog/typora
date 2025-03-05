@@ -35,7 +35,7 @@ const Lannding = () => {
         </div>
       </div>
         <div className='p-4 text-center font-extralight'>
-          &copy;typora made with ❣️ by Mayank Chandratre
+          &copy;typora made with ❣️ by Abhijit,Ajay,Amit
         </div>
     </div>
   )
